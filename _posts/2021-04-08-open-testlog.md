@@ -3,6 +3,7 @@ layout: post
 title: 공개 로그
 subtitle: 공개 로그는 이렇게 보입니다
 permalink: /open_testlog/
+draft: true
 ---
 
 공개 로그 포스트입니다.
