@@ -8,4 +8,4 @@ tag: [후소사, 버스테]
 
 
 
-{% include_relative .html %}
+{% include_relative altenterhss.html %}
